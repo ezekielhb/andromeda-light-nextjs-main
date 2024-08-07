@@ -44,6 +44,10 @@
     {
       "name": "Terms & Conditions",
       "url": "/terms-policy"
+    },
+    {
+      "name": "Registration",
+      "url": "/login"
     }
   ]
 }
